@@ -1,4 +1,19 @@
-### Hi there 👋
+## Hello everyone!
+### I am not very good at English...
+
+#### To Use Programming language
+・C++
+
+・Java
+
+・JavaScript
+
+
+#### Other
+・HTML (a little...)
+
+・CSS (a little...)
+
 
 <!--
 **Ay2416/Ay2416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
