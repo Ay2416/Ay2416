@@ -8,6 +8,7 @@
 
 ・JavaScript
 
+・PHP (a little...)
 
 #### Other
 ・HTML (a little...)
