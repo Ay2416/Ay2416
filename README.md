@@ -3,16 +3,13 @@
 
 #### To Use Programming language
 ・C++
-
 ・Java
-
 ・JavaScript
 
 ・PHP (a little...)
 
 #### Other
 ・HTML (a little...)
-
 ・CSS (a little...)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay2416&show_icons=true&theme=transparent)
