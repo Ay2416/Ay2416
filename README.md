@@ -11,9 +11,10 @@
 #### Other
 ・HTML (a little...)
 ・CSS (a little...)
+・Linux(a little...)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay2416&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ay2416&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ay2416&layout=compact)
 
 <!--
 **Ay2416/Ay2416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
