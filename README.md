@@ -14,6 +14,11 @@
 
 ・Linux(a little...)
 
+#### Repository name details
+・"Discord_○○○○" → Discord bot
+
+・"WebSite_○○○○" → Website template
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay2416&show_icons=true&theme=transparent)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ay2416&layout=compact&theme=transparent)
 
