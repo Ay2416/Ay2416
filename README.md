@@ -6,7 +6,7 @@
 ・Java
 ・JavaScript
 
-・P (a little..)
+・Python(a little..)
 ・PHP (a little...)
 
 #### Other
