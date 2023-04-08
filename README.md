@@ -18,7 +18,7 @@
 #### Repository name details
 ・"Discord_○○○○" → Discord bot
 
-・"WebSite_○○○○" → Website template
+・"WebSite_○○○○" → Website template & I make website.()
 
 ・"△△△△_○○○○" → △△△△ create program
 
