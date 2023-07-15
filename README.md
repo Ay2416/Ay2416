@@ -1,6 +1,6 @@
 ## Hello everyone!
 ### I am not very good at English...💦
-### And, Very Programming beginner...
+### And, very Programming beginner...
 
 #### To Use Programming language
 ・C++
