@@ -26,9 +26,9 @@
 ・"△△△△_○○○○" → △△△△ create program
 -->
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ay7716&layout=pie&theme=transparent&langs_count=10)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ay2416&layout=pie&theme=transparent&langs_count=10)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay7716&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ay2416&show_icons=true&theme=transparent)
 
 <!--
 **Ay2416/Ay2416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
