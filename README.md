@@ -54,7 +54,6 @@ Please understand and accept this ...
 -->
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ay2416&layout=pie&theme=transparent&langs_count=10)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ay2416&show_icons=true&theme=transparent)
 
 <!--
