@@ -11,21 +11,21 @@
 
 ## Attention! / 注意！
 
-The contributions records before October 6, 2023, 
+The contributions record prior to 10/6/2023 at the bottom of this page is
 
-at the bottom of this page are experiencing issues because 
+Due to the reason that the repository was migrated from the previous account,
 
-they were forcibly transferred from the old account to repositorys.  🙇
+Due to the migration of the repositories from the previous account, there are some records of commits before the account creation date.
 
-Please understand and accept this ...
+Please understand....
 
 ーーーーー
 
 このページの下の方にある2023/10/6以前のcontributions記録が
 
-無理やり前アカウントからレポジトリを移行させた都合上、
+前アカウントからレポジトリを移行させた都合上、
 
-おかしくなっています🙇
+アカウント作成日以前にもcommit記録がついています🙇
 
 ご了承ください...。
 
